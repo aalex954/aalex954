@@ -3,10 +3,11 @@
 
 ## 📚 Latest on the Blog
 <!-- BLOG-POST-LIST:START -->
-- [Website CTF Solution](https://alexfronteddu.com/posts/website-ctf-solution-post/) — <sub>31 Mar 2025</sub>
-- [Tempest SDR Side-Channel Attack](https://alexfronteddu.com/posts/tempest-sdr-post/) — <sub>10 Mar 2025</sub>
-- [Rayhunter LTE PCAP Analysis](https://alexfronteddu.com/posts/rayhunter-pcap-analysis-post/) — <sub>01 Mar 2025</sub>
-- [Cloning MIFARE Classic 1 K Cards](https://alexfronteddu.com/posts/mifare-classic-1k-research/) — <sub>01 Feb 2025</sub>
+- [CrackMe - Imp](/posts/CrackMe_Imp_post/)
+- [Writeup - RTA &quot;Introduction to Containers&quot; Challenge](/posts/rta-ctf-docker-post/)
+- [Crackme3 Solve](/posts/crackme3-solution-post/)
+- [Binary Ninja MCP](/posts/binary-ninja-mcp-post/)
+- [Website CTF Solution](/posts/website-ctf-solution-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools
