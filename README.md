@@ -4,7 +4,12 @@
 
 
 ## 📚 Latest on the [Blog](https://www.alexfronteddu.com)
-<!-- BLOG-POST-LIST:START --><tr><td>CrackMe - Imp</td><td>/posts/CrackMe_Imp_post/</td></tr><tr><td>Writeup - RTA &quot;Introduction to Containers&quot; Challenge</td><td>/posts/rta-ctf-docker-post/</td></tr><tr><td>Crackme3 Solve</td><td>/posts/crackme3-solution-post/</td></tr><tr><td>Binary Ninja MCP</td><td>/posts/binary-ninja-mcp-post/</td></tr><tr><td>Website CTF Solution</td><td>/posts/website-ctf-solution-post/</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://www.alexfronteddu.com/posts/CrackMe_Imp_post/">CrackMe - Imp</a></li>
+<li><a href="https://www.alexfronteddu.com/posts/rta-ctf-docker-post/">Writeup - RTA &quot;Introduction to Containers&quot; Challenge</a></li>
+<li><a href="https://www.alexfronteddu.com/posts/crackme3-solution-post/">Crackme3 Solve</a></li>
+<li><a href="https://www.alexfronteddu.com/posts/binary-ninja-mcp-post/">Binary Ninja MCP</a></li>
+<li><a href="https://www.alexfronteddu.com/posts/website-ctf-solution-post/">Website CTF Solution</a></li>
+<!-- BLOG-POST-LIST:END -->
 
 ## Tools
 ![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
