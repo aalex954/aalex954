@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in dev.to posts
-        uses: aalex954/blog-post-workflow
+        uses: aalex954/blog-post-workflow@v1
         with:
           feed_list: "https://alexfronteddu.com/atom.xml"
           max_post_count: 5
