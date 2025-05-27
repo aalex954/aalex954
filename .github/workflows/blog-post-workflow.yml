@@ -18,3 +18,4 @@ jobs:
         with:
           feed_list: "https://alexfronteddu.com/atom.xml"
           max_post_count: 5
+          template: "[$title](https://www.alexfronteddu.com$url)"
