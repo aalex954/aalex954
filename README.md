@@ -11,18 +11,10 @@
 <li><a href="https://www.alexfronteddu.com/posts/website-ctf-solution-post/">Website CTF Solution</a></li>
 <!-- BLOG-POST-LIST:END -->
 
-## Tools
-![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![image](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![image](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
-![image](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Releases
 
-## Release
+![MSFT ASN IP Ranges](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml/badge.svg?branch=master)
 
-[![MSFT ASN IP Ranges](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml/badge.svg?branch=master)](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml)
+### Apps
 
 ![ASN-2-IP Converter](https://img.shields.io/badge/ASN%202%20IP%20streamlit.app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-[ASN-2-IP.streamlit.app](https://asn-2-ip.streamlit.app/)
