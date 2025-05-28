@@ -14,6 +14,7 @@
 ### Releases
 
 ![MSFT ASN IP Ranges](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml/badge.svg?branch=master)
+[![Personal Site Node.js CI](https://github.com/aalex954/personal-site/actions/workflows/node.js.yml/badge.svg?event=push)](https://github.com/aalex954/personal-site/actions/workflows/node.js.yml)
 
 ### Apps
 
