@@ -19,3 +19,10 @@
 ![image](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![image](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## Release
+
+[![MSFT ASN IP Ranges](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml/badge.svg?branch=master)](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml)
+
+![ASN-2-IP Converter](https://img.shields.io/badge/ASN%202%20IP%20streamlit.app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+[ASN-2-IP.streamlit.app](https://asn-2-ip.streamlit.app/)
