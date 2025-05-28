@@ -4,7 +4,7 @@
 
 
 ## 📚 Latest on the [Blog](https://www.alexfronteddu.com)
-<!-- BLOG-POST-LIST:START --><li><a href="https://www.alexfronteddu.com/posts/CrackMe_Imp_post/">CrackMe - Imp</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://www.alexfronteddu.com/posts/CrackMe_Imp_post/">Writeup for CrackMe challenge Simples</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/rta-ctf-docker-post/">Writeup - RTA &quot;Introduction to Containers&quot; Challenge</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/crackme3-solution-post/">Crackme3 Solve</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/binary-ninja-mcp-post/">Binary Ninja MCP</a></li>
