@@ -18,4 +18,5 @@
 
 ### Apps
 
-![ASN-2-IP Converter](https://img.shields.io/badge/ASN%202%20IP%20streamlit.app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+- [ASN-2-IP Converter](https://asn-2-ip.streamlit.app/)
+- [LLM Prompt Shape Inspector](https://promptshapeinspector.streamlit.app/)
