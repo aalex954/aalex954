@@ -3,6 +3,7 @@
 
 ### 📚 Latest posts on the [Blog](https://www.alexfronteddu.com)
 <!-- BLOG-POST-LIST:START --><li><a href="https://www.alexfronteddu.com/posts/LLM_prompt_shape_explorer_post/">LLM Prompt Shape Inspector</a></li>
+<li><a href="https://www.alexfronteddu.com/posts/gandalf-ctf-post/">Writeup for Lakera Gandalf Prompt Injection CTF</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/CrackMe_Imp_post/">Writeup for CrackMe challenge Simples</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/rta-ctf-docker-post/">Writeup - RTA &quot;Introduction to Containers&quot; Challenge</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/crackme3-solution-post/">Crackme3 Solve</a></li>
