@@ -17,7 +17,7 @@
 
 #### Published Apps
 
-**[ASN-2-IP Converter](https://asn-2-ip.streamlit.app/)** | **[LLM Prompt Shape Inspector](https://promptshapeinspector.streamlit.app/)**
+**[ASN-2-IP Converter](https://asn-2-ip.streamlit.app/)** | **[LLM Prompt Shape Inspector](https://promptshapeinspector.streamlit.app/)** | **[Yeet-Agent](https://yeet-it.streamlit.app/)**
 
 > All opinions are my own and do not represent those of any employer.
 
