@@ -15,6 +15,7 @@
 [![MSFT ASN IP Ranges - Release](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml/badge.svg?branch=master)](https://github.com/aalex954/MSFT-IP-Tracker)
 [![Personal Site Node.js - CI](https://github.com/aalex954/personal-site/actions/workflows/node.js.yml/badge.svg?event=push)](https://www.alexfronteddu.com/)
 [![Downloads-Auto-Archiver Tests](https://github.com/aalex954/downloads-auto-archiver/actions/workflows/main.yml/badge.svg)](https://github.com/aalex954/downloads-auto-archiver)
+[![applocate - CI](https://github.com/aalex954/applocate/actions/workflows/build-release.yml/badge.svg)](https://github.com/aalex954/applocate)
 
 #### Published Apps
 
