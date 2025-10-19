@@ -3,6 +3,7 @@
 
 ### 📚 Latest posts on the [Blog](https://www.alexfronteddu.com)
 <!-- BLOG-POST-LIST:START -->
+<li><a href="https://github.com/aalex954/WWHF2025-Badge-Writeup">Writeup for the Wild West Hackin Fest 2025 Deadwood Badge CTF</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/gandalf-ctf-post/">Writeup for Lakera Gandalf Prompt Injection CTF</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/LLM_prompt_shape_explorer_post/">LLM Prompt Shape Inspector</a></li>
 <li><a href="https://www.alexfronteddu.com/posts/CrackMe_Imp_post/">Writeup for CrackMe challenge Simples</a></li>
