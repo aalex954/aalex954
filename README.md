@@ -2,14 +2,17 @@
 [![aalex954's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalex954&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Latest posts on the [Blog](https://www.alexfronteddu.com)
-<!-- BLOG-POST-LIST:START -->
-<li><a href="https://github.com/aalex954/WWHF2025-Badge-Writeup">Writeup for the Wild West Hackin Fest 2025 Deadwood Badge CTF</a></li>
-<li><a href="https://www.alexfronteddu.com/posts/gandalf-ctf-post/">Writeup for Lakera Gandalf Prompt Injection CTF</a></li>
-<li><a href="https://www.alexfronteddu.com/posts/LLM_prompt_shape_explorer_post/">LLM Prompt Shape Inspector</a></li>
-<li><a href="https://www.alexfronteddu.com/posts/CrackMe_Imp_post/">Writeup for CrackMe challenge Simples</a></li>
-<li><a href="https://www.alexfronteddu.com/posts/rta-ctf-docker-post/">Writeup - RTA &quot;Introduction to Containers&quot; Challenge</a></li>
-<li><a href="https://www.alexfronteddu.com/posts/crackme3-solution-post/">Crackme3 Solve</a></li>
-<!-- BLOG-POST-LIST:END -->
+
+ <!-- BLOG-POST-LIST:START -->
+
+- [Writeup for the Wild West Hackin Fest 2025 Deadwood Badge CTF](https://github.com/aalex954/WWHF2025-Badge-Writeup)
+- [Writeup for Lakera Gandalf Prompt Injection CTF](https://www.alexfronteddu.com/posts/gandalf-ctf-post/)
+- [LLM Prompt Shape Inspector](https://www.alexfronteddu.com/posts/LLM_prompt_shape_explorer_post/)
+- [>Writeup for CrackMe challenge Simples](https://www.alexfronteddu.com/posts/CrackMe_Imp_post/)
+- [>Writeup - RTA &quot;Introduction to Containers&quot; Challenge](https://www.alexfronteddu.com/posts/rta-ctf-docker-post/)
+- [Crackme3 Solve](https://www.alexfronteddu.com/posts/crackme3-solution-post/)
+
+ <!-- BLOG-POST-LIST:END -->
 
 #### Workflow Status
 
