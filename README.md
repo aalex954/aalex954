@@ -19,10 +19,11 @@
 [![MSFT ASN IP Ranges - Release](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml/badge.svg?branch=master)](https://github.com/aalex954/MSFT-IP-Tracker)
 [![Downloads-Auto-Archiver Tests](https://github.com/aalex954/downloads-auto-archiver/actions/workflows/main.yml/badge.svg)](https://github.com/aalex954/downloads-auto-archiver)
 [![applocate - CI](https://github.com/aalex954/applocate/actions/workflows/build-release.yml/badge.svg)](https://github.com/aalex954/applocate)
+[![Deploy Feed Dashboard](https://github.com/aalex954/feed-dashboard/actions/workflows/static.yml/badge.svg)](https://github.com/aalex954/feed-dashboard/actions/workflows/static.yml)
 
 #### Published Apps
 
-**[ASN-2-IP Converter](https://asn-2-ip.streamlit.app/)** | **[LLM Prompt Shape Inspector](https://promptshapeinspector.streamlit.app/)** | **[Yeet-Agent](https://yeet-it.streamlit.app/)**
+**[ASN-2-IP Converter](https://asn-2-ip.streamlit.app/)** | **[LLM Prompt Shape Inspector](https://promptshapeinspector.streamlit.app/)** | **[Yeet-Agent](https://yeet-it.streamlit.app/)** 
 
 > All opinions are my own and do not represent those of any employer.
 
