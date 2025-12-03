@@ -24,7 +24,7 @@
 
 #### Published Apps
 
-**[ASN-2-IP Converter](https://asn-2-ip.streamlit.app/)** | **[LLM Prompt Shape Inspector](https://promptshapeinspector.streamlit.app/)** | **[Yeet-Agent](https://yeet-it.streamlit.app/)** 
+**[ASN-2-IP Converter](https://asn-2-ip.streamlit.app/)** | **[LLM Prompt Shape Inspector](https://promptshapeinspector.streamlit.app/)** | **[Yeet-Agent](https://yeet-it.streamlit.app/)** | **[AppLocate](https://github.com/aalex954/applocate/releases/tag/v0.1.3)** | **[Feed Dashboard](https://aalex954.github.io/feed-dashboard/)** | **[Twiki](https://aalex954.github.io/Twiki/)**
 
 > All opinions are my own and do not represent those of any employer.
 
