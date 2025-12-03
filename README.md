@@ -20,6 +20,7 @@
 [![Downloads-Auto-Archiver Tests](https://github.com/aalex954/downloads-auto-archiver/actions/workflows/main.yml/badge.svg)](https://github.com/aalex954/downloads-auto-archiver)
 [![applocate - CI](https://github.com/aalex954/applocate/actions/workflows/build-release.yml/badge.svg)](https://github.com/aalex954/applocate)
 [![Deploy Feed Dashboard](https://github.com/aalex954/feed-dashboard/actions/workflows/static.yml/badge.svg)](https://github.com/aalex954/feed-dashboard/actions/workflows/static.yml)
+[![Deploy Twiki](https://github.com/aalex954/Twiki/actions/workflows/static.yml/badge.svg)](https://github.com/aalex954/Twiki/actions/workflows/static.yml)
 
 #### Published Apps
 
