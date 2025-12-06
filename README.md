@@ -1,5 +1,4 @@
- 
-[![aalex954's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalex954&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+![https://githubcard.com/aalex954.svg?d=QrL0ZAUy](https://githubcard.com/aalex954.svg?d=QrL0ZAUy)
 
 ### 📚 Latest posts on the [Blog](https://www.alexfronteddu.com)
 
