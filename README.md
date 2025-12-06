@@ -1,4 +1,6 @@
-![https://githubcard.com/aalex954.svg?d=QrL0ZAUy](https://githubcard.com/aalex954.svg?d=QrL0ZAUy)
+![https://githubcard.com/aalex954.svg?d=WlN-K04S](https://githubcard.com/aalex954.svg?d=WlN-K04S)
+
+
 
 ### 📚 Latest posts on the [Blog](https://www.alexfronteddu.com)
 
