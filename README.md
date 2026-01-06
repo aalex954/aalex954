@@ -25,24 +25,23 @@
 
 #### Published Apps & Releases
 
-![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/Downloads-Auto-Archiver?logo=powershell&label=PowerShell%20Gallery%20-%20DAA&link=https%3A%2F%2Fwww.powershellgallery.com%2Fpackages%2FDownloads-Auto-Archiver%2F1.0.0)
-![GitHub Release](https://img.shields.io/github/v/release/aalex954/MSFT-IP-Tracker?label=MSFT-IP-Tracker%20Daily%20Release&link=https%3A%2F%2Fgithub.com%2Faalex954%2FMSFT-IP-Tracker%2Freleases%2Flatest)
-![GitHub Release](https://img.shields.io/github/v/release/aalex954/applocate?label=AppLocate%20Latest&color=%231976d2&link=https%3A%2F%2Fgithub.com%2Faalex954%2Fapplocate%2Freleases%2Flatest)
-![WinGet Package Version](https://img.shields.io/winget/v/AppLocate.AppLocate?label=winget%20-%20applocate&link=https%3A%2F%2Fgithub.com%2Faalex954%2Fapplocate%2Freleases%2Ftag%2Fv0.1.4)
-![GitHub Release](https://img.shields.io/github/v/release/aalex954/ASN-2-IP?label=ASN-2-IP%20Latest&color=%231976d2&link=https%3A%2F%2Fgithub.com%2Faalex954%2Fapplocate%2Freleases%2Flatest)
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/Downloads-Auto-Archiver?logo=powershell&label=PowerShell%20Gallery%20-%20DAA)](https://www.powershellgallery.com/packages/Downloads-Auto-Archiver/1.0.0)
+[![GitHub Release](https://img.shields.io/github/v/release/aalex954/MSFT-IP-Tracker?label=MSFT-IP-Tracker%20Daily%20Release)](https://github.com/aalex954/MSFT-IP-Tracker/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/aalex954/applocate?label=AppLocate%20Latest&color=%231976d2)](https://github.com/aalex954/applocate/releases/latest)
+[![WinGet Package Version](https://img.shields.io/winget/v/AppLocate.AppLocate?label=winget%20-%20applocate)](https://github.com/aalex954/applocate/releases/tag/v0.1.4)
+[![GitHub Release](https://img.shields.io/github/v/release/aalex954/ASN-2-IP?label=ASN-2-IP%20Latest&color=%231976d2)](https://github.com/aalex954/ASN-2-IP/releases/latest)
 
 #### Web Apps
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Faalex954.github.io%2Ffeed-dashboard%2F&logo=circuitverse&label=Feed%20Dashboard&link=https%3A%2F%2Faalex954.github.io%2Ffeed-dashboard%2F)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Falexfronteddu.com%2F&logo=circuitverse&label=Personal%20Site&link=https%3A%2F%2Falexfronteddu.com%2F)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Faalex954.github.io%2FTwiki%2F&logo=circuitverse&label=Twiki&link=https%3A%2F%2Faalex954.github.io%2FTwiki%2F)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Faalex954.github.io%2Ffeed-dashboard%2F&logo=circuitverse&label=Feed%20Dashboard)](https://aalex954.github.io/feed-dashboard/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Falexfronteddu.com%2F&logo=circuitverse&label=Personal%20Site)](https://alexfronteddu.com/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Faalex954.github.io%2FTwiki%2F&logo=circuitverse&label=Twiki)](https://aalex954.github.io/Twiki/)
 
 #### Streamlit
 
-![Static Badge](https://img.shields.io/badge/streamlit-Prompt--Shape--Inspector-purple?logo=streamlit&link=https%3A%2F%2Fpromptshapeinspector.streamlit.app)
-![Static Badge](https://img.shields.io/badge/streamlit-ASN--2--IP-purple?logo=streamlit&link=https%3A%2F%2Fasn-2-ip.streamlit.app)
-![Static Badge](https://img.shields.io/badge/streamlit-Yeet--Agent-purple?logo=streamlit&link=https%3A%2F%2Fyeet-it.streamlit.app%2F)
-
+[![Static Badge](https://img.shields.io/badge/streamlit-Prompt--Shape--Inspector-purple?logo=streamlit)](https://promptshapeinspector.streamlit.app)
+[![Static Badge](https://img.shields.io/badge/streamlit-ASN--2--IP-purple?logo=streamlit)](https://asn-2-ip.streamlit.app)
+[![Static Badge](https://img.shields.io/badge/streamlit-Yeet--Agent-purple?logo=streamlit)](https://yeet-it.streamlit.app/)
 
 > All opinions are my own and do not represent those of any employer.
 
