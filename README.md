@@ -28,6 +28,7 @@
 [![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/Downloads-Auto-Archiver?logo=powershell&label=PowerShell%20Gallery%20-%20DAA)](https://www.powershellgallery.com/packages/Downloads-Auto-Archiver/1.0.0)
 [![GitHub Release](https://img.shields.io/github/v/release/aalex954/MSFT-IP-Tracker?label=MSFT-IP-Tracker%20Daily%20Release)](https://github.com/aalex954/MSFT-IP-Tracker/releases/latest)
 [![WinGet Package Version](https://img.shields.io/winget/v/AppLocate.AppLocate?label=Winget%20AppLocate%20Latest&color=123456)](https://github.com/aalex954/applocate/releases/latest)
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/AppLocate?logo=powershell&label=PowerShell%20Gallery%20-%20AppLocate&color=123456)](https://www.powershellgallery.com/packages/AppLocate/0.1.6)
 [![GitHub Release](https://img.shields.io/github/v/release/aalex954/ASN-2-IP?label=ASN-2-IP%20Latest&color=%231976d2)](https://github.com/aalex954/ASN-2-IP/releases/latest)
 
 #### Web Sites & Apps
