@@ -6,7 +6,8 @@
 
  <!-- BLOG-POST-LIST:START -->
 
-- [Writeup for the Wild West Hackin Fest 2025 Deadwood Badge CTF](https://github.com/aalex954/WWHF2025-Badge-Writeup)
+- [WhisperPair PoC Write Up](https://github.com/aalex954/whisperpair-poc-tool)
+- [Writeup for the Wild West Hackin Fest 2025 Deadwood Badge CTF (Winning Team)](https://github.com/aalex954/WWHF2025-Badge-Writeup)
 - [Writeup for Lakera Gandalf Prompt Injection CTF](https://www.alexfronteddu.com/posts/gandalf-ctf-post/)
 - [LLM Prompt Shape Inspector](https://www.alexfronteddu.com/posts/LLM_prompt_shape_explorer_post/)
 - [Writeup for CrackMe challenge Simples](https://www.alexfronteddu.com/posts/CrackMe_Imp_post/)
