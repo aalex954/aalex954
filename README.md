@@ -11,8 +11,6 @@
 - [Writeup - RTA &quot;Introduction to Containers&quot; Challenge](https://www.alexfronteddu.com/posts/rta-ctf-docker-post/)
 - [Crackme3 Solve](https://www.alexfronteddu.com/posts/crackme3-solution-post/)
 
-![Profile views](https://views.igorkowalczyk.dev/api/badge/aalex954?style=classic)
-
 #### CI - Workflow Status
 
 [![MSFT ASN IP Ranges - Release](https://github.com/aalex954/MSFT-IP-Tracker/actions/workflows/build_and_release.yml/badge.svg?branch=master)](https://github.com/aalex954/MSFT-IP-Tracker)
@@ -38,6 +36,8 @@
 [![Static Badge](https://img.shields.io/badge/streamlit-Prompt--Shape--Inspector-purple?logo=streamlit)](https://promptshapeinspector.streamlit.app)
 [![Static Badge](https://img.shields.io/badge/streamlit-ASN--2--IP-purple?logo=streamlit)](https://asn-2-ip.streamlit.app)
 [![Static Badge](https://img.shields.io/badge/streamlit-Yeet--Agent-purple?logo=streamlit)](https://yeet-it.streamlit.app/)
+
+![Profile views](https://views.igorkowalczyk.dev/api/badge/aalex954?style=classic)
 
 > All opinions are my own and do not represent those of any employer.
 
