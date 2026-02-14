@@ -1,10 +1,7 @@
 ![https://githubcard.com/aalex954.svg?d=iXtOKvfx](https://githubcard.com/aalex954.svg?d=iXtOKvfx)
 
 
-
 ### 📚 Latest posts on the [Blog](https://www.alexfronteddu.com)
-
- <!-- BLOG-POST-LIST:START -->
 
 - [WhisperPair PoC Write Up](https://github.com/aalex954/whisperpair-poc-tool)
 - [Writeup for the Wild West Hackin Fest 2025 Deadwood Badge CTF (Winning Team)](https://github.com/aalex954/WWHF2025-Badge-Writeup)
@@ -14,7 +11,7 @@
 - [Writeup - RTA &quot;Introduction to Containers&quot; Challenge](https://www.alexfronteddu.com/posts/rta-ctf-docker-post/)
 - [Crackme3 Solve](https://www.alexfronteddu.com/posts/crackme3-solution-post/)
 
- <!-- BLOG-POST-LIST:END -->
+![Profile views](https://views.igorkowalczyk.dev/api/badge/aalex954?style=classic)
 
 #### CI - Workflow Status
 
